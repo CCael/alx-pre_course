@@ -1,1 +1,1 @@
-Masterclass Web Developer.
+Masterclass web developer
